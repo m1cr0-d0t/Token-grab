@@ -1,0 +1,18 @@
+# Exigences pour ce projet Python
+
+requests==2.25.1       # Utilisé pour faire des requêtes HTTP
+cryptography==3.4.7    # Fournit des recettes cryptographiques et des primitives
+pycryptodome==3.10.1   # Implémentation de nombreux algorithmes cryptographiques
+pandas==1.2.4          # Outils pour l'analyse de données
+numpy==1.20.2          # Support pour les grandes matrices multidimensionnelles et les calculs mathématiques
+flask==1.1.2           # Cadre web léger pour Python
+
+# Autres packages nécessaires
+urllib3==1.26.4        # Gestionnaire de requêtes HTTP avec connexion par pool et redirections
+beautifulsoup4==4.9.3  # Utilisé pour le scraping web
+
+# Modules pour l'environnement Windows
+pywin32==300           # Extensions pour le système d'exploitation Windows
+pyinstaller==4.3       # Crée des fichiers exécutables pour vos programmes Python
+
+# Note : Vous pouvez ajouter plus de packages en fonction des besoins de votre projet.
