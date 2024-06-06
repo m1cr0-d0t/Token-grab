@@ -28,4 +28,5 @@ pip install -r requirements.txt
 ## Note
 Il peut y avoir deds conflits entre certaine librairies notament entre ```pycrypto``` et ```pycryptodome```, le meilleur moyen est de désinstaller ```pycrypto``` et de garder seulement ```pycryptodome```
 
-PS: ce contunu est uniquement a des fin éducative. En utilisant ce script vous prenez toutes résponsabilités des conséquences que peuvent avoir vos actes.
+# INFORMATION
+## Ce contunu est uniquement a des fin éducative. En utilisant ce script vous prenez toutes résponsabilités des conséquences que peuvent avoir vos actes.
